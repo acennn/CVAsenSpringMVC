@@ -25,10 +25,10 @@
             <header class="banner">
                 <ul>
                     <li>
-                        <img src="<c:url value="/resources/images/logo.jpg"/>" alt="IQ Soft" width="200" />
+                        <img src="<c:url value="/resources/images/logo.jpg"/>" alt="Hi Guys" width="200" />
                     </li>
                     <li>
-                        <h2>Hello IQ Soft!</h2>
+                        <h2>Hello!</h2>
                         My name is Asen Bochukov and I would like to apply for a job.
                     </li>
                 </ul>
@@ -89,7 +89,7 @@
                     </article>
                     <span>I would like to continue my growth to your organization. I'd be a great candidate to consider for this position.</span>
                 </section>
-            </main>
+                  </main>
             <aside>
                 <h4>Certificates</h4>                
                 <ul>
@@ -125,7 +125,85 @@
                     </li>
 
                 </ul>                
-            </aside>
+            </aside>                  
+                <section class="jobs">
+                    <article class="job">
+                        <header class="jobheader">
+                         
+                            <h4 ><strong>Survey Programmer at <strong><a target="_blank" href="https://www.focusvision.com" >Focus Vision</a></strong> </strong></h4>
+                             11.2015-12.2016 
+                        </header>
+                        
+                        <span class="responsibilities">
+                       As a Survey Programmer, I am responsible for programming online surveys, working as part of a client centric team, delivering services to leading market research firms. My job responsibilities include programming  and troubleshooting surveys to verify they function according to specifications and standards, following formalized quality assurance and project processes, and maintaining an exceptionally high level of quality for client deliverables. My position involves daily interaction and coordination with internal departments and requires excellent  communication skills.
+                      </span>
+                      
+                    </article>
+                     <article class="job">
+                        <header class="jobheader">
+                         
+                            <h4 ><strong>Student at  <strong><a target="_blank" href="https://telerikacademy.com/" >Telerik Academy</a></strong> </strong></h4>
+                             01.2015-08.2015 
+                        </header>
+                        
+                        <span class="responsibilities">
+                        Courses , C#, JavaScript, HTML, CSS  
+                      </span>
+                      
+                    </article>
+                      <article class="job">
+                        <header class="jobheader">
+                         
+                            <h4 ><strong>Chief Surveyor, Designer at <strong><a target="_blank" href="<c:url value="/resources/pdf/certificateCivil3D.pdf"/>">"Globus" ltd WDF AES</a></strong></strong></h4>
+                             06.2012-12.2014  
+                        </header>
+                        
+                        <span class="responsibilities">
+                        Organizing and managing surveying crew, working with different geodetic software SBG.GEO, Leica,Topcon etc., preparing 3D models for intelligent machine control, 3D models for calculating volume and quantity with LandDesktop and CivilDesign, preparing data for setting out.  
+                      </span>
+                      
+                    </article>
+                     <article class="job">
+                        <header class="jobheader">
+                         
+                            <h4 ><strong>Chief Surveyor, Designer, CadOperator at <strong><a target="_blank" href="<c:url value="/resources/pdf/certificateCivil3D.pdf"/>">"Kriston engineering"Ltd</a></strong> </strong></h4>
+                             08.2009-01.2011 
+                        </header>
+                        
+                        <span class="responsibilities">
+                        Organizing and managing surveying crew, working with geodetic software Leica,Topcon etc., making 3D models , calculate volume and quantity with Land Desktop and CivilDesign, preparing data for setting out. 
+                      </span>
+                      
+                    </article>
+                     <article class="job">
+                        <header class="jobheader">
+                         
+                            <h4 ><strong>Surveyor, Designer, CadOperator at <strong><a target="_blank" href="<c:url value="/resources/pdf/certificateCivil3D.pdf"/>">"Progeocadengineering"Ltd.</a></strong> </strong></h4>
+                             09.2008-01.2011 
+                        </header>
+                        
+                        <span class="responsibilities">
+                        Organizing and managing surveying crew, working with geodetic software Leica,Topcon etc., making 3D models , calculate volume and quantity with Land Desktop and CivilDesign, preparing data for setting out.
+                        </span>
+                      
+                    </article>
+                     <article class="job">
+                        <header class="jobheader">
+                         
+                            <h4 ><strong>Surveyor, Designer, CadOperator at <strong><a target="_blank" href="<c:url value="/resources/pdf/certificateCivil3D.pdf"/>">"Geotehengineering" Ltd. to "Alpine Bau" Gmbh </a></strong> </strong></h4>
+                             03.2007-05.2008 
+                        </header>
+                        
+                        <span class="responsibilities">
+                        Working with geodetic software Leica,Topcon etc., making 3D models , calculate volume and quantity with Land Desktop and Civil design, preparing data for setting out.
+                        </span>
+                      
+                    </article>                                           
+                    
+                                                           
+                </section>                
+          
+
             <footer>
                 <ul>
                     <li>

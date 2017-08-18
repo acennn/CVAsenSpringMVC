@@ -59,6 +59,7 @@ section {
     background-color: #bbbbbb;
     margin-top: 10px;
     padding: 5px;
+float : right;
 }
 article {
     background-color: #e2dede;
@@ -104,3 +105,4 @@ footer {
     color: white;
     clear: both;
 }
+

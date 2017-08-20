@@ -14,10 +14,11 @@ section {
     background-color: #8BB9E1;
     color: white;
     text-align: center;
-    padding-bottom: 0px;
+    
 }
 .banner img {
- 
+    float: left;
+   
 }
 .banner li {
     display: inline;

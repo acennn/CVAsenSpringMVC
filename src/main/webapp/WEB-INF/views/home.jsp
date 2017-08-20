@@ -23,15 +23,16 @@
 
         <body>
             <header class="banner">
-                <ul>
-                    <li>
-                        <img src="<c:url value="/resources/images/logo.jpg"/>" alt="Hi Guys" width="200" />
-                    </li>
-                    <li>
+                 
+                     
+                        <img src="<c:url value="/resources/images/banner.jpg"/>" alt="Hi Guys" width="800" />
+                   
+                    <!--  <li>
                         <h2>Hello!</h2>
                         My name is Asen Bochukov and I would like to apply for a job.
                     </li>
-                </ul>
+                    -->
+                
             </header>
             <footer>
                 <ul>
@@ -115,7 +116,7 @@
                         <a href="https://github.com/acennn/CalorieCalculator/raw/master/CalorieCalculator.rar">Desktop Calorie Calculator</a>
                     </li>
                     <li>
-                        <a target="_blank" href="http://iqsoft.herokuapp.com/">Spring MVC</a>
+                        <a target="_blank" href="http://cvasen.herokuapp.com/">Spring MVC</a>
                     </li>
                 </ul>
                 <h4>Recommendations</h4>
@@ -154,7 +155,7 @@
                       <article class="job">
                         <header class="jobheader">
                          
-                            <h4 ><strong>Chief Surveyor, Designer at <strong><a target="_blank" href="<c:url value="/resources/pdf/certificateCivil3D.pdf"/>">"Globus" ltd WDF AES</a></strong></strong></h4>
+                            <h4 ><strong>Chief Surveyor, Designer at <strong><a target="_blank" href="<c:url value="/resources/pdf/recommendGlobus.pdf"/>">"Globus" ltd WDF AES</a></strong></strong></h4>
                              06.2012-12.2014  
                         </header>
                         
@@ -166,7 +167,7 @@
                      <article class="job">
                         <header class="jobheader">
                          
-                            <h4 ><strong>Chief Surveyor, Designer, CadOperator at <strong><a target="_blank" href="<c:url value="/resources/pdf/certificateCivil3D.pdf"/>">"Kriston engineering"Ltd</a></strong> </strong></h4>
+                            <h4 ><strong>Chief Surveyor, Designer, CadOperator at <strong><a target="_blank" href="<c:url value="/resources/pdf/recommendKriston.pdf"/>">"Kriston engineering"Ltd</a></strong> </strong></h4>
                              08.2009-01.2011 
                         </header>
                         
@@ -178,7 +179,7 @@
                      <article class="job">
                         <header class="jobheader">
                          
-                            <h4 ><strong>Surveyor, Designer, CadOperator at <strong><a target="_blank" href="<c:url value="/resources/pdf/certificateCivil3D.pdf"/>">"Progeocadengineering"Ltd.</a></strong> </strong></h4>
+                            <h4 ><strong>Surveyor, Designer, CadOperator at <strong><a target="_blank" href="<c:url value="/resources/pdf/recommendProgeocad.pdf"/>">"Progeocadengineering"Ltd.</a></strong> </strong></h4>
                              09.2008-01.2011 
                         </header>
                         
@@ -190,7 +191,7 @@
                      <article class="job">
                         <header class="jobheader">
                          
-                            <h4 ><strong>Surveyor, Designer, CadOperator at <strong><a target="_blank" href="<c:url value="/resources/pdf/certificateCivil3D.pdf"/>">"Geotehengineering" Ltd. to "Alpine Bau" Gmbh </a></strong> </strong></h4>
+                            <h4 ><strong>Surveyor, Designer, CadOperator at <strong><a target="_blank" href="<c:url value="/resources/pdf/recommendAlpine.pdf"/>">"Geotehengineering" Ltd. to "Alpine Bau" Gmbh </a></strong> </strong></h4>
                              03.2007-05.2008 
                         </header>
                         

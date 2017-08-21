@@ -87,6 +87,7 @@
                     <span>I would like to continue my growth to your organization. I'd be a great candidate to consider for this position.</span>
                 </section>
                   </main>
+                  
             <aside>
                 <h4>Certificates</h4>                
                 <ul>

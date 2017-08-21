@@ -54,14 +54,15 @@ section {
 float : right;
 }
 article {
+	font-size: 15px;
     background-color: #e2dede;
-    margin-top: 5px;
-    padding: 10px 15px;
+    margin-top: 2px;
+    padding: 1px 15px;
 }
 article header {
     background-color: #bdb8b8;
     margin: 7px 2px;
-    padding: 1px 36px;
+    
     text-align: center;
 }
 main {
@@ -84,7 +85,7 @@ footer ul {
 }
 footer li {
     display: inline;
-    margin-left: 5x;
+    margin-left: 5px;
     margin-right: 20px;
     font-size: 15px;
 }
@@ -97,4 +98,7 @@ footer {
     color: white;
     clear: both;
 }
+
+
+
 

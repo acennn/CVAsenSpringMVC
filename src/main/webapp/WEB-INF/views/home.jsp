@@ -24,14 +24,10 @@
         <body>
             <header class="banner">
                  
-                     
+                        <span>
                         <img src="<c:url value="/resources/images/banner.jpg"/>" alt="Hi Guys" width="800" />
-                   
-                    <!--  <li>
-                        <h2>Hello!</h2>
-                        My name is Asen Bochukov and I would like to apply for a job.
-                    </li>
-                    -->
+                        </span>
+
                 
             </header>
             <footer>

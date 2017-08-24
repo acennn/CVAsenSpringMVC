@@ -90,7 +90,8 @@
          <h4>Certificates</h4>
          <ul>
             <li>
-               <a target="_blank" href="https://media.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=%2F3S9rVWPy%2Bf7Uu%2Fl6M33F3Jpy64%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdfyXrf5GKcbCmuQwfe38clFJjKvL5FTHlD8W8fY29et55iMSwJY24ZxUBbFI8lWxI">Decipher Programming Certification</a>
+                     
+               <a target="_blank" href="<c:url value="/resources/images/DecipherCertification.jpg"/>">Decipher Programming Certification</a>
             </li>
             <li>
                <a target="_blank" href="https://media.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=u5FuRpywyhFWyIw%2B9ke5nQzqySw%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdfyTtKJaLfLP0uQ8SKX0clFAwffL6RDSyD5u4edy8K9tzi8Kwdo24ZxUBbFImi24">Business Acumen Training Series PwC 2015</a>
@@ -102,9 +103,7 @@
                <a target="_blank" href="http://www.kiip-sofia.com/index.php/bul/kiip-sofiya/userprofile/1283">Chamber of Engineers in the Investment Design</a>
             </li>
             <li>
-               <a target="_blank" href="
-               <c:url value="/resources/pdf/certificateCivil3D.pdf"/>
-               ">Completed Course Of AutoCad Civil 3D</a>
+               <a target="_blank" href="<c:url value="/resources/pdf/certificateCivil3D.pdf"/>">Completed Course Of AutoCad Civil 3D</a>
             </li>
          </ul>
          <h4>Projects</h4>

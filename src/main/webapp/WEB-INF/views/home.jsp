@@ -40,6 +40,9 @@
             <li>
                <a target="_blank" href="mailto:bochukov.asen@gmail.com">bochukov.asen@gmail.com</a>
             </li>
+            <li>
+               <a target="_blank" href="<c:url value="/resources/pdf/CvAsenBochukov.pdf"/>">Download CV</a>
+            </li> 
          </ul>
       </footer>
       <nav>
@@ -53,6 +56,9 @@
             <li>
                <a target="_blank" href="https://github.com/acennn/">Github Profile</a>
             </li>
+            <li>
+               <a target="_blank" href="<c:url value="/resources/pdf/CvAsenBochukov.pdf"/>">Download CV</a>
+            </li>            
          </ul>
       </nav>
       <main>

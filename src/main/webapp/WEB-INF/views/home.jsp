@@ -89,7 +89,7 @@
                <br/>
                </span>
             </article>
-            <span>I would like to continue my growth to your organization. I'd be a great candidate to consider for this position.</span>
+            <span>I would like to continue my growth to your organization. I'd be a great candidate to consider for position as <strong>junior Java developer</strong>.</span>
          </section>
       </main>
       <aside>
@@ -118,8 +118,11 @@
                <a href="https://github.com/acennn/CalorieCalculator/raw/master/CalorieCalculator.rar">Desktop Calorie Calculator</a>
             </li>
             <li>
-               <a target="_blank" href="http://cvasen.herokuapp.com/">Spring MVC</a>
+               <a target="_blank" href="https://loginasen.herokuapp.com">Security Spring MVC</a>
             </li>
+            <li>
+               <a target="_blank" href="http://cvasen.herokuapp.com">Spring MVC</a>
+            </li>            
          </ul>
          <h4>Recommendations</h4>
          <ul>

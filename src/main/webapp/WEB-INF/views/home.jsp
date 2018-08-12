@@ -9,7 +9,7 @@
       " rel="stylesheet">
       <!--[if lt IE 9]
          <script>
-         
+
          document.createElement("nav");
          document.createElement("header");
          document.createElement("article");
@@ -17,7 +17,7 @@
          document.createElement("section");
          document.createElement("main");
          document.createElement("footer");
-         
+
          </script>
          <![endif]-->
    </head>
@@ -42,61 +42,66 @@
             </li>
             <li>
                <a target="_blank" href="<c:url value="/resources/pdf/CvAsenBochukov.pdf"/>">Download CV</a>
-            </li> 
+            </li>
          </ul>
       </footer>
       <nav>
-         <img id="imageAsen" src=" 
+         <img id="imageAsen" src="
          <c:url value="/resources/images/Asen.jpg"/>
          " alt="Image Asen" width="200" />
          <ul>
             <li>
                <a target="_blank" href="https://bg.linkedin.com/in/asen-bochukov">Linkedin Profile</a>
             </li>
-            <li>
+<!--            <li>
                <a target="_blank" href="https://github.com/acennn/">Github Profile</a>
             </li>
-            <li>
+-->            <li>
                <a target="_blank" href="<c:url value="/resources/pdf/CvAsenBochukov.pdf"/>">Download CV</a>
-            </li>            
+            </li>
          </ul>
       </nav>
       <main>
          <section>
             <article>
                <header>
-                  <h4>It will be a great opportunity for me if I could become a part of your team as a <strong>junior Java developer</strong>.</h4>
+                  <h5>Working as a <strong>junior Java developer</strong> is being great opportunity and challenge for me , so I would like to continuously growing in the same direction.  and to become a really good Java software engineer.</h5>
                </header>
                <br/>
                <span>
-               I have graduated from a <strong><a target="_blank" href="http://www.tu-sofia.bg/schools/2" >Technological School Electronic Systems</a></strong> associated with<strong> Technical University of Sofia</strong>, from where I have a diploma for a <strong>specialist in electronic computing systems</strong>.
-               <br/>I had worked for one year as <strong>Survey Programmer</strong> in <strong><a target="_blank" href="https://www.focusvision.com" >Focus Vision</a></strong>. But I need a position that better matched to my long-term career goals and that will be a position as a <strong>junior Java developer</strong>.
+               I am junior Java Developer at <a target="_blank" href="https://www.scalefocus.com/" >Scale Focus</a> working with Spring Boot, Docker Containers, Jenkins, GIT, SQL, Eclipse, Intellij, Gradle, Maven. Scrum methodology, JIRA. For our US client <a target="_blank" href="http://www.aimspecialtyhealth.com">AIM Specialty Health</a>.
+               <br/>
+               I have worked as a Survey Programmer in <a target="_blank" href="https://www.focusvision.com" >Focus Vision</a>.
+               <br/>
+               I have graduated from a <a target="_blank" href="http://www.tu-sofia.bg/schools/2" >Technological School Electronic Systems</a> associated with Technical University of Sofia, from where I have a diploma for a specialist in electronic computing systems.
+               <br/>
+               <br/>
                </span>
             </article>
-            <span>My vision is that the <strong>junior Java developer</strong> will be the step for me to become a really good software engineer, which is a priority for me.</span>
+            <span>My vision is that playing as a <a target="_blank" href="https://inside.scalefocus.com/wp-content/uploads/sites/4/2018/07/Legion-Run-ScaleFocus-2018-4.jpg" >team player</a> is the only way to play.</span>
          </section>
          <section>
             <article>
                <header>
-                  <h4>Over the years of experience have equipped me with a multitude of <strong>skills</strong>.</h4>
+                  <h5>Over the years of experience have equipped me with a multitude of <strong>skills</strong>.</h5>
                </header>
                <br/>
                <span>I am serious, reasonable, reliable, responsible, attitude to work.
                <br/>During the entire tenure of my services with all the previous organizations, my knowledge, working abilities and techniques has always won the appreciation of my supervisors.
                <br/>I have worked with senior management e.g. (CEO, Board members, COO) of prestigious organizations and have demonstrated for my employers an exceptional facility for meeting organizational objectives and needs.
                <br/>I am outgoing person with exceptional interpersonal skills and the hunger to learn and grow professionally.
-               <br/> 
+               <br/>
                <br/>
                </span>
             </article>
-            <span>I would like to continue my growth to your organization. I'd be a great candidate to consider for position as <strong>junior Java developer</strong>.</span>
+            <span>My vision is that playing as a <a target="_blank" href="https://www.scalefocus.com/wp-content/uploads/sites/2/2018/06/scalefocus-sql-business-run-weekend-01.jpg" >team player</a> is the only way to play.</span>
          </section>
       </main>
       <aside>
          <h4>Certificates</h4>
          <ul>
             <li>
-                     
+
                <a target="_blank" href="<c:url value="/resources/images/DecipherCertification.jpg"/>">Decipher Programming Certification</a>
             </li>
             <li>
@@ -106,7 +111,7 @@
                <a target="_blank" href="https://media.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=H7fiGZWgHHTFXWwar1eK0ZuJ4xE%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdfyLpfZSJfLCguV8ScSgclARjLfKgRWXkD5foLI6-K41zg5Kwco24ZxUBbFImi24">Soft Skills Course 2015</a>
             </li>
             <li>
-               <a target="_blank" href="http://www.kiip-sofia.com/index.php/bul/kiip-sofiya/userprofile/1283">Chamber of Engineers in the Investment Design</a>
+               <a target="_blank" href="https://www.kiip-sofia.com/index.php/eng/">Chamber of Engineers in the Investment Design</a>
             </li>
             <li>
                <a target="_blank" href="<c:url value="/resources/pdf/certificateCivil3D.pdf"/>">Completed Course Of AutoCad Civil 3D</a>
@@ -115,16 +120,19 @@
          <h4>Projects</h4>
          <ul>
             <li>
+               <a href="http://www.aimspecialtyhealth.com/nextgen/">AIM Specialty Health</a>
+            </li>
+            <li>
                <a href="https://github.com/acennn/CalorieCalculator/raw/master/CalorieCalculator.rar">Desktop Calorie Calculator</a>
             </li>
             <li>
                <a target="_blank" href="https://loginasen.herokuapp.com">Security Spring MVC</a>
             </li>
-            <li>
+<!--            <li>
                <a target="_blank" href="http://cvasen.herokuapp.com">Spring MVC</a>
-            </li>            
+-->            </li>
          </ul>
-         <h4>Recommendations</h4>
+<!--     <h4>Recommendations</h4>
          <ul>
             <li>
                <a target="_blank" href="
@@ -132,12 +140,21 @@
                ">Recommendation letters</a>
             </li>
          </ul>
-      </aside>
+-->   </aside>
       <section class="jobs">
          <article class="job">
             <header class="jobheader">
+               <h4 ><strong>junior Java Developer</strong> at <strong><a target="_blank" href="https://www.scalefocus.com/" >Scale Focus</a></strong> </strong></h4>
+               11.2017-Present
+            </header>
+            <span class="responsibilities">
+            As a junior Java Developer I am working with Spring Boot, Docker Containers, Jenkins, GIT, SQL, Eclipse, Intellij, Gradle, Maven, JIRA. I have everyday Scrum meeting with our US clients so we are getting the active tasks aligned for the active sprint and backlog stories  groomed for the future sprints.
+            </span>
+         </article>
+         <article class="job">
+            <header class="jobheader">
                <h4 ><strong>Survey Programmer at <strong><a target="_blank" href="https://www.focusvision.com" >Focus Vision</a></strong> </strong></h4>
-               11.2015-12.2016 
+               11.2015-12.2016
             </header>
             <span class="responsibilities">
             As a Survey Programmer, I am responsible for programming online surveys, working as part of a client centric team, delivering services to leading market research firms. My job responsibilities include programming  and troubleshooting surveys to verify they function according to specifications and standards, following formalized quality assurance and project processes, and maintaining an exceptionally high level of quality for client deliverables. My position involves daily interaction and coordination with internal departments and requires excellent  communication skills.
@@ -146,17 +163,17 @@
          <article class="job">
             <header class="jobheader">
                <h4 ><strong>Student at  <strong><a target="_blank" href="https://telerikacademy.com/" >Telerik Academy</a></strong> </strong></h4>
-               01.2015-08.2015 
+               01.2015-08.2015
             </header>
             <span class="responsibilities">
-            Courses , C#, JavaScript, HTML, CSS  
+            Courses , C#, JavaScript, HTML, CSS
             </span>
          </article>
          <article class="job">
             <header class="jobheader">
                <h4 >
                   <strong>
-                     Chief Surveyor, Designer at 
+                     Chief Surveyor, Designer at
                      <strong>
                         <a target="_blank" href="
                         <c:url value="/resources/pdf/recommendGlobus.pdf"/>
@@ -164,17 +181,17 @@
                      </strong>
                   </strong>
                </h4>
-               06.2012-12.2014  
+               06.2012-12.2014
             </header>
             <span class="responsibilities">
-            Organizing and managing surveying crew, working with different geodetic software SBG.GEO, Leica,Topcon etc., preparing 3D models for intelligent machine control, 3D models for calculating volume and quantity with LandDesktop and CivilDesign, preparing data for setting out.  
+            Organizing and managing surveying crew, working with different geodetic software SBG.GEO, Leica,Topcon etc., preparing 3D models for intelligent machine control, 3D models for calculating volume and quantity with LandDesktop and CivilDesign, preparing data for setting out.
             </span>
          </article>
          <article class="job">
             <header class="jobheader">
                <h4 >
                   <strong>
-                     Chief Surveyor, Designer, CadOperator at 
+                     Chief Surveyor, Designer, CadOperator at
                      <strong>
                         <a target="_blank" href="
                         <c:url value="/resources/pdf/recommendKriston.pdf"/>
@@ -182,25 +199,7 @@
                      </strong>
                   </strong>
                </h4>
-               08.2009-01.2011 
-            </header>
-            <span class="responsibilities">
-            Organizing and managing surveying crew, working with geodetic software Leica,Topcon etc., making 3D models , calculate volume and quantity with Land Desktop and CivilDesign, preparing data for setting out. 
-            </span>
-         </article>
-         <article class="job">
-            <header class="jobheader">
-               <h4 >
-                  <strong>
-                     Surveyor, Designer, CadOperator at 
-                     <strong>
-                        <a target="_blank" href="
-                        <c:url value="/resources/pdf/recommendProgeocad.pdf"/>
-                        ">"Progeocadengineering"Ltd.</a>
-                     </strong>
-                  </strong>
-               </h4>
-               09.2008-01.2011 
+               08.2009-01.2011
             </header>
             <span class="responsibilities">
             Organizing and managing surveying crew, working with geodetic software Leica,Topcon etc., making 3D models , calculate volume and quantity with Land Desktop and CivilDesign, preparing data for setting out.
@@ -210,7 +209,25 @@
             <header class="jobheader">
                <h4 >
                   <strong>
-                     Surveyor, Designer, CadOperator at 
+                     Surveyor, Designer, CadOperator at
+                     <strong>
+                        <a target="_blank" href="
+                        <c:url value="/resources/pdf/recommendProgeocad.pdf"/>
+                        ">"Progeocadengineering"Ltd.</a>
+                     </strong>
+                  </strong>
+               </h4>
+               09.2008-01.2011
+            </header>
+            <span class="responsibilities">
+            Organizing and managing surveying crew, working with geodetic software Leica,Topcon etc., making 3D models , calculate volume and quantity with Land Desktop and CivilDesign, preparing data for setting out.
+            </span>
+         </article>
+         <article class="job">
+            <header class="jobheader">
+               <h4 >
+                  <strong>
+                     Surveyor, Designer, CadOperator at
                      <strong>
                         <a target="_blank" href="
                         <c:url value="/resources/pdf/recommendAlpine.pdf"/>
@@ -218,7 +235,7 @@
                      </strong>
                   </strong>
                </h4>
-               03.2007-05.2008 
+               03.2007-05.2008
             </header>
             <span class="responsibilities">
             Working with geodetic software Leica,Topcon etc., making 3D models , calculate volume and quantity with Land Desktop and Civil design, preparing data for setting out.

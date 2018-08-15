@@ -5,6 +5,8 @@ footer,
 header,
 main,
 nav,
+
+
 section {
     display: block;
     padding: 0;
@@ -18,19 +20,22 @@ section {
 }
   
 body {
+    border-radius: 25px;
     width: 800px;
     margin-left: auto;
     margin-right: auto;
     background-color: #f0f0f0;
-    font-family: tahoma, sans-serif;
-    font-size: 15px;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 17px;
 }
 nav li a {
-    font-family: Arial, sans-serif;
-    font-size: 15px;
+    border-radius: 25px;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 17px;
     margin: 10px;
 }
 nav {
+    border-radius: 25px;
     padding: 5px;
     background-color: #E1DEDE;
     margin-top: 10px;
@@ -40,6 +45,8 @@ nav {
     font-size: 2px;
 }
 nav li {
+
+    border-radius: 25px;
     margin-left: 15x;
     margin-right: 15px;
     font-size: 20px;
@@ -48,12 +55,14 @@ nav li {
     margin: 15px 15px 5px 15px;
 }
 section {
+    border-radius: 25px;
     background-color: #bbbbbb;
     margin-top: 10px;
     padding: 5px;
 float : right;
 }
 article {
+    border-radius: 25px;
 	font-size: 15px;
     background-color: #e2dede;
     margin-top: 2px;
@@ -66,10 +75,13 @@ article header {
     text-align: center;
 }
 main {
+    border-radius: 25px;
     float: right;
     width: 540px;
 }
 aside {
+
+    border-radius: 25px;
     background-color: #bbbbbb;
     width: 220px;
     float: left;
@@ -98,7 +110,18 @@ footer {
     color: white;
     clear: both;
 }
-
+.button {
+  border-radius: 25px;
+  font: bold 13px Arial;
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}
 
 
 

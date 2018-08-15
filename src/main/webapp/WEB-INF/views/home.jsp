@@ -21,27 +21,28 @@
          </script>
          <![endif]-->
    </head>
-   <body>
+   <body background="<c:url value="/resources/images/background.jpg"/>"
+                                                                            >
       <header class="banner">
-         <span>
+<!--         <span>
             <img src="
             <c:url value="/resources/images/banner.jpg"/>
             " alt="Hi Guys" width="800" />
-         </span>
+-->         </span>
       </header>
       <footer>
          <ul>
             <li>
-               <a target="_blank" href="https://www.google.bg/maps/place/1113+%D0%B6.%D0%BA.+%D0%98%D0%B7%D1%82%D0%BE%D0%BA,+%D0%A1%D0%BE%D1%84%D0%B8%D1%8F/@42.6729448,23.3474091,15z/data=!4m5!3m4!1s0x40aa85cef55bc981:0x887b5d97b48df58a!8m2!3d42.6724743!4d23.356657">Location: Sofia, Bulgaria</a>
+               <a class="button" target="_blank" href="https://www.google.bg/maps/place/1113+%D0%B6.%D0%BA.+%D0%98%D0%B7%D1%82%D0%BE%D0%BA,+%D0%A1%D0%BE%D1%84%D0%B8%D1%8F/@42.6729448,23.3474091,15z/data=!4m5!3m4!1s0x40aa85cef55bc981:0x887b5d97b48df58a!8m2!3d42.6724743!4d23.356657">Location: Sofia, Bulgaria</a>
             </li>
             <li>
-               <a target="_blank" href="tel:+359899890459">Phone: +359 (0)899890459</a>
+               <a class="button" target="_blank" href="tel:+359899890459">Phone: +359 (0)899890459</a>
             </li>
             <li>
-               <a target="_blank" href="mailto:bochukov.asen@gmail.com">bochukov.asen@gmail.com</a>
+               <a class="button" target="_blank" href="mailto:bochukov.asen@gmail.com">bochukov.asen@gmail.com</a>
             </li>
             <li>
-               <a target="_blank" href="<c:url value="/resources/pdf/CvAsenBochukov.pdf"/>">Download CV</a>
+               <a class="button" target="_blank" href="<c:url value="/resources/pdf/CvAsenBochukov.pdf"/>">Download CV</a>
             </li>
          </ul>
       </footer>
@@ -65,20 +66,20 @@
          <section>
             <article>
                <header>
-                  <h5>Working as a <strong>junior Java developer</strong> is being great opportunity and challenge for me , so I would like to continuously growing in the same direction.  and to become a really good Java software engineer.</h5>
+                  <h5>Working as a <strong>junior Java developer</strong> is being great opportunity and challenge for me , so I would like to continuously growing in the same direction and to become a really good Java software engineer.</h5>
                </header>
-               <br/>
                <span>
-               I am junior Java Developer at <a target="_blank" href="https://www.scalefocus.com/" >Scale Focus</a> working with Spring Boot, Docker Containers, Jenkins, GIT, SQL, Eclipse, Intellij, Gradle, Maven. Scrum methodology, JIRA. For our US client <a target="_blank" href="http://www.aimspecialtyhealth.com">AIM Specialty Health</a>.
+               I am working as a junior Java Developer at <a target="_blank" href="https://www.scalefocus.com/" >Scale Focus</a>. In my current project I am using Spring Boot, Docker Containers, Jenkins, GIT, SQL, Eclipse, Intellij, Gradle, Maven, Scrum methodology and JIRA. The project belongs to our US client <a target="_blank" href="http://www.aimspecialtyhealth.com">AIM Specialty Health</a>.
                <br/>
                I have worked as a Survey Programmer in <a target="_blank" href="https://www.focusvision.com" >Focus Vision</a>.
                <br/>
                I have graduated from a <a target="_blank" href="http://www.tu-sofia.bg/schools/2" >Technological School Electronic Systems</a> associated with Technical University of Sofia, from where I have a diploma for a specialist in electronic computing systems.
                <br/>
+            <span>My vision is that playing as a <a target="_blank" href="https://inside.scalefocus.com/wp-content/uploads/sites/4/2018/07/Legion-Run-ScaleFocus-2018-4.jpg" >team player</a> is the only way to play.</span>
+               <br/>
                <br/>
                </span>
             </article>
-            <span>My vision is that playing as a <a target="_blank" href="https://inside.scalefocus.com/wp-content/uploads/sites/4/2018/07/Legion-Run-ScaleFocus-2018-4.jpg" >team player</a> is the only way to play.</span>
          </section>
          <section>
             <article>
@@ -86,15 +87,15 @@
                   <h5>Over the years of experience have equipped me with a multitude of <strong>skills</strong>.</h5>
                </header>
                <br/>
-               <span>I am serious, reasonable, reliable, responsible, attitude to work.
+               <span>I am serious, reasonable and reliable person with responsible attitude to work and hunger to learn and grow professionally.
                <br/>During the entire tenure of my services with all the previous organizations, my knowledge, working abilities and techniques has always won the appreciation of my supervisors.
                <br/>I have worked with senior management e.g. (CEO, Board members, COO) of prestigious organizations and have demonstrated for my employers an exceptional facility for meeting organizational objectives and needs.
-               <br/>I am outgoing person with exceptional interpersonal skills and the hunger to learn and grow professionally.
+               <br/>
+               <span>I love sharing fun experiences with the <a target="_blank" href="https://www.scalefocus.com/wp-content/uploads/sites/2/2018/06/scalefocus-sql-business-run-weekend-01.jpg" >team</a>.</span>
                <br/>
                <br/>
                </span>
             </article>
-            <span>My vision is that playing as a <a target="_blank" href="https://www.scalefocus.com/wp-content/uploads/sites/2/2018/06/scalefocus-sql-business-run-weekend-01.jpg" >team player</a> is the only way to play.</span>
          </section>
       </main>
       <aside>
@@ -245,13 +246,13 @@
       <footer>
          <ul>
             <li>
-               <a target="_blank" href="https://www.google.bg/maps/place/1113+%D0%B6.%D0%BA.+%D0%98%D0%B7%D1%82%D0%BE%D0%BA,+%D0%A1%D0%BE%D1%84%D0%B8%D1%8F/@42.6729448,23.3474091,15z/data=!4m5!3m4!1s0x40aa85cef55bc981:0x887b5d97b48df58a!8m2!3d42.6724743!4d23.356657">Location: Sofia, Bulgaria</a>
+               <a class="button" target="_blank" href="https://www.google.bg/maps/place/1113+%D0%B6.%D0%BA.+%D0%98%D0%B7%D1%82%D0%BE%D0%BA,+%D0%A1%D0%BE%D1%84%D0%B8%D1%8F/@42.6729448,23.3474091,15z/data=!4m5!3m4!1s0x40aa85cef55bc981:0x887b5d97b48df58a!8m2!3d42.6724743!4d23.356657">Location: Sofia, Bulgaria</a>
             </li>
             <li>
-               <a target="_blank" href="tel:+359899890459">Phone: +359 (0)899890459</a>
+               <a class="button" target="_blank" href="tel:+359899890459">Phone: +359 (0)899890459</a>
             </li>
             <li>
-               <a target="_blank" href="mailto:bochukov.asen@gmail.com">bochukov.asen@gmail.com</a>
+               <a class="button" target="_blank" href="mailto:bochukov.asen@gmail.com">bochukov.asen@gmail.com</a>
             </li>
          </ul>
       </footer>

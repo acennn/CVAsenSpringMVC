@@ -119,36 +119,28 @@
         <th>
           <a target="_blank" href="
           <c:url value="https://www.youracclaim.com/badges/170fafa0-5953-4b73-bdbb-5f17ad1b64e5/public_url"/>
-          ">
-          <img class="cert_img" src="
+          "><img class="cert_img" src="
           <c:url value="/resources/images/oca-java-se-8.jpg"/>
-          " alt="Java8 Oracle Programmer Certified Associate"/>
-          </a>
+          " alt="Java8 Oracle Programmer Certified Associate"/></a>
         </th>
         <th>
           <a target="_blank" href="
           <c:url value="https://www.youracclaim.com/badges/170fafa0-5953-4b73-bdbb-5f17ad1b64e5/public_url"/>
-          ">
-          Java8 Oracle Programmer Certified Associate
-          </a>
+          ">Java8 Oracle Programmer Certified Associate</a>
         </th>
       </tr>
       <tr>
         <th>
           <a target="_blank" href="
           <c:url value="/resources/images/DecipherCertification.jpg"/>
-          ">
-          <img class="cert_img" src="
-          <c:url value="/resources/images/DecipherCertification.jpg"/>
-          " alt="Decipher Programming Certification"/>
-          </a>
+          "><img class="cert_img" src="
+          <c:url value="/resources/images/resized_deciphercertification.jpg"/>
+          " alt="Decipher Programming Certification"/></a>
         </th>
         <th>
           <a target="_blank" href="
           <c:url value="/resources/images/DecipherCertification.jpg"/>
-          ">
-          Decipher Programming Certification
-          </a>
+          ">Decipher Programming Certification</a>
         </th>
       </tr>
       <tr>
@@ -158,15 +150,12 @@
           ">
           <img class="cert_img" src="
           <c:url value="/resources/images/cert_pwc.jpg"/>
-          " alt="Business Acumen Training Series PwC 2015"/>
-          </a>
+          " alt="Business Acumen Training Series PwC 2015"/></a>
         </th>
         <th>
           <a target="_blank" href="
           <c:url value="https://media.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=u5FuRpywyhFWyIw%2B9ke5nQzqySw%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdfyTtKJaLfLP0uQ8SKX0clFAwffL6RDSyD5u4edy8K9tzi8Kwdo24ZxUBbFImi24"/>
-          ">
-          Business Acumen Training Series PwC 2015
-          </a>
+          ">Business Acumen Training Series PwC 2015</a>
         </th>
       </tr>
       <tr>
@@ -176,15 +165,12 @@
           ">
           <img class="cert_img" src="
           <c:url value="/resources/images/cert_soft_skills.jpg"/>
-          " alt="Soft Skills Course 2015"/>
-          </a>
+          " alt="Soft Skills Course 2015"/></a>
         </th>
         <th>
           <a target="_blank" href="
           <c:url value="https://media.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=H7fiGZWgHHTFXWwar1eK0ZuJ4xE%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdfyLpfZSJfLCguV8ScSgclARjLfKgRWXkD5foLI6-K41zg5Kwco24ZxUBbFImi24"/>
-          ">
-          Soft Skills Course 2015
-          </a>
+          ">Soft Skills Course 2015</a>
         </th>
       </tr>
       <tr>
@@ -197,19 +183,16 @@
       <tr>
         <th>
           <a target="_blank" href="
-          <c:url value="/resources/pdf/certificateCivil3D.pdf"/>
+          <c:url value="/resources/images/certificateCivil3D.jpg"/>
           ">
           <img class="cert_img" src="
-          <c:url value="/resources/images/certificateCivil3D.jpg"/>
-          " alt="Completed Course Of AutoCad Civil 3D"/>
-          </a>
+          <c:url value="/resources/images/resized_certificateCivil3D.jpg"/>
+          " alt="Completed Course Of AutoCad Civil 3D"/></a>
         </th>
         <th>
           <a target="_blank" href="
-          <c:url value="/resources/pdf/certificateCivil3D.pdf"/>
-          ">
-          Completed Course Of AutoCad Civil 3D
-          </a>
+          <c:url value="/resources/images/certificateCivil3D.jpg"/>
+          ">Completed Course Of AutoCad Civil 3D</a>
         </th>
       </tr>
     </table>
@@ -294,7 +277,7 @@
           <strong>
             Chief Surveyor, 3D CAD Designer at "Kriston engineering"Ltd.
             <strong>
-              <!--              <a target="_blank" href="<c:url value="/resources/pdf/recommendKriston.pdf"/>">"Kriston engineering"Ltd</a> -->
+              <!--<a target="_blank" href="<c:url value="/resources/pdf/recommendKriston.pdf"/>">"Kriston engineering"Ltd</a> -->
             </strong>
           </strong>
         </h4>
@@ -351,3 +334,4 @@
     </ul>
   </footer>
 </html>
+

@@ -79,7 +79,7 @@
       <article>
         <br/>
         <header>
-          <h4>My mission is to become a really good Java software engineer.</h4>
+          <h4>My desire is to become a really good Java software engineer.</h4>
         </header>
         <span>
         I am Java 8 Oracle Certified Programmer. In my current project I am using Spring Boot, Docker Containers, Jenkins, GIT, SQL, Eclipse, Intellij, Gradle, Maven, Scrum methodology and JIRA. The project belongs to our US client, a huge health insurance company</a>.

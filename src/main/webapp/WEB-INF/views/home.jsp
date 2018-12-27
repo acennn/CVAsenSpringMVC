@@ -79,16 +79,16 @@
       <article>
         <br/>
         <header>
-          <h4>My ambition is to become a really good Java software engineer.</h4>
+          <h4>My mission is to become a really good Java software engineer.</h4>
         </header>
         <span>
-        I am Java 8 Oracle Certified Programmer. In my current project I am using Spring Boot, Docker Containers, Jenkins, GIT, SQL, Eclipse, Intellij, Gradle, Maven, Scrum methodology and JIRA. The project belongs to our US client a health insurance company</a>.
+        I am Java 8 Oracle Certified Programmer. In my current project I am using Spring Boot, Docker Containers, Jenkins, GIT, SQL, Eclipse, Intellij, Gradle, Maven, Scrum methodology and JIRA. The project belongs to our US client, a huge health insurance company</a>.
         <br/>
         I am working as a junior Java Developer at <a target="_blank" href="https://www.scalefocus.com/" >Scale Focus</a>
         <br/>
         I have worked as a Survey Programmer at <a target="_blank" href="https://www.focusvision.com" >Focus Vision</a>.
         <br/>
-        I have graduated from a <a target="_blank" href="http://www.tu-sofia.bg/schools/2" >Technological School Electronic Systems</a> associated with Technical University of Sofia, from where I have a diploma for a specialist in electronic computing systems.
+        I have graduated from the <a target="_blank" href="http://www.tu-sofia.bg/schools/2" >Technological School Electronic Systems</a> associated with Technical University of Sofia, from where I have a diploma for a specialist in electronic computing systems.
         <br/>
         <span>My vision is that playing as a <a target="_blank" href="https://inside.scalefocus.com/wp-content/uploads/sites/4/2018/07/Legion-Run-ScaleFocus-2018-4.jpg" >team player</a> is the only way to play.</span>
         <br/>
@@ -102,8 +102,8 @@
           <h4>My working experience have equipped me with  a lot of useful <strong>skills</strong>.</h4>
         </header>
         <span>I am serious, reasonable and reliable person with responsible attitude to work and hunger to learn and grow professionally.
-        <br/>During the entire term of my services with all the previous organizations, my knowledge, working abilities and techniques have always won the appreciation of my supervisors.
-        <br/>I have worked with senior management e.g.(CEO, Board members, COO) of the  employers and clients. I aways protect the reputation and interest of my employer and get job done.
+        <br/>During the entire term of my services to all previous organizations, my knowledge, working abilities and techniques have always won the appreciation of my managers.
+        <br/>I have worked with senior management e.g.(CEO, Board members, COO) of the  employers and clients. I always protect the reputation and interest of my employer and get job done.
         <br/>
         <span>I love sharing fun experiences with the <a target="_blank" href="https://www.scalefocus.com/wp-content/uploads/sites/2/2018/06/scalefocus-sql-business-run-weekend-01.jpg" >team</a>.</span>
         <br/>
@@ -197,15 +197,19 @@
       </tr>
     </table>
     <h3>Projects</h3>
-    <ul>
+    <ul id="id_projects">
       <li>
         <a target="_blank" href="https://github.com/acennn/ElevatorMenu.git">ElevatorMenu</a>
+        <br/>
+        <br/>
       </li>
       <!--      <li>
         <a href="http://www.aimspecialtyhealth.com/nextgen/">AIM Specialty Health</a>
         -->      </li>
       <li>
         <a href="https://github.com/acennn/CalorieCalculator/raw/master/CalorieCalculator.rar">Desktop Calorie Calculator</a>
+        <br/>
+        <br/>
       </li>
       <li>
         <a target="_blank" href="https://loginasen.herokuapp.com">Security Spring MVC</a>
@@ -220,9 +224,6 @@
          </li>
       </ul>
       -->
-    <br/>
-    <br/>
-    <br/>
   </aside>
   <section class="jobs_section1">
     <h3 id="h_Experience">Experience</h3>
@@ -250,7 +251,7 @@
         01.2015-08.2015
       </header>
       <span class="responsibilities">
-      Courses in C#, JavaScript, HTML, CSS.
+      I have been true several courses like C#, JavaScript, HTML and CSS.
       </span>
     </article>
   </section>
@@ -259,7 +260,7 @@
       <header class="jobheader">
         <h4 >
           <strong>
-            Chief Surveyor, 3D CAD Designer project "AES" at "Globus" ltd
+            Chief Surveyor, 3D CAD Designer at "Globus"Ltd. project "AES"
             <strong>
               <!--  <a target="_blank" href="<c:url value="/resources/pdf/recommendGlobus.pdf"/>">"Globus" ltd WDF AES</a> -->
             </strong>
@@ -307,7 +308,7 @@
       <header class="jobheader">
         <h4 >
           <strong>
-            Surveyor, 3D CAD Designer at "Geotehengineering" project "Alpine Bau" Gmbh
+            Surveyor, 3D CAD Designer at "Geotehengineering"Ltd. project "Alpine Bau" Gmbh
             <strong>
               <!--  <a target="_blank" href="<c:url value="/resources/pdf/recommendAlpine.pdf"/>">"Geotehengineering" Ltd. to "Alpine Bau" Gmbh </a> -->
             </strong>

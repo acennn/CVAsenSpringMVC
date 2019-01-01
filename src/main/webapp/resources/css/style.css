@@ -6,7 +6,7 @@ header,
 main,
 nav,
 
-
+/*
 section {
     display: block;
     padding: 0;
@@ -16,9 +16,9 @@ section {
     background-color: black;
     color: white;
     text-align: center;
-    
+
 }
-  
+
 body {
     border-radius: 25px;
     width: 800px;
@@ -37,9 +37,8 @@ nav li a {
 }
 nav {
     border-radius: 25px;
-    padding: 5px;
-    background-color: #E1DEDE;
-    margin-top: 10px;
+
+
     float: left;
     width: 230px;
     font-family: Arial, sans-serif;
@@ -57,7 +56,6 @@ nav li {
 }
 section {
     border-radius: 25px;
-    background-color: #bbbbbb;
     margin-top: 10px;
     padding: 5px;
 float : right;
@@ -65,14 +63,14 @@ float : right;
 article {
     border-radius: 25px;
 	font-size: 15px;
-    background-color: #e2dede;
-    margin-top: 2px;
+    background-color: #f5f5f5;
+    margin-top: 11px;
     padding: 1px 15px;
 }
 article header {
-    background-color: #bdb8b8;
+    background-color: #e4e2e5;
     margin: 7px 2px;
-    
+
     text-align: center;
 }
 main {
@@ -83,7 +81,7 @@ main {
 aside {
 
     border-radius: 25px;
-    background-color: #bbbbbb;
+    background-color: #e4e2e5;
     width: 220px;
     float: left;
     padding: 10px;
@@ -140,15 +138,232 @@ width: 70px;
     margin: 15px 15px 5px 15px;
 }
 
-.jobs_section1{
-    width: 530px;
+.jobs_section2{
+    width: 800px;
+    margin: 0px;
 }
 
 #h_Experience{
     text-align: center;
+    color: white;
+        font-family: "Times New Roman", Times, serif;
+        font-size: 30px;
 }
 
 #id_projects{
     font-family: "Times New Roman", Times, serif;
     font-size: 15px;
+}
+
+.icons_img {
+width: 30px;
+    margin: 15px 15px 5px 15px;
+}
+
+
+
+.footer{
+    display: grid;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#id_skills_set{
+margin: 0px;
+}
+
+#experience_img{
+    text-align: center;
+margin:0px;
+padding:0px;
+}
+
+#skills_img{
+    text-align: center;
+margin:0px;
+padding:0px;
+}
+
+*/
+/*----------------------------------------------------------------------------*/
+
+body {
+    border-radius: 25px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 14px;
+    background-size: 100%;
+    background-color:black;
+    background-repeat: no-repeat;
+    background-position:center center;
+    background-attachment: fixed;
+}
+
+.text_align_justify{
+margin: 20px;
+text-align: justify;
+}
+
+.text_align_center{
+margin: 20px;
+text-align: center;
+}
+
+img{
+width: 100px;
+}
+
+header{
+width: 100%;
+
+}
+
+table {
+  width: 100%;
+  text-align: center;
+  margin:auto;
+
+}
+
+.fill_color_f0f0f0, .job{
+  background-color: #ffffff;
+}
+
+.fill_color_e4e2e5, .jobheader{
+  background-color: #e4e2e5;
+}
+
+#id_banner_img{
+width: 100%;
+}
+
+canvas {
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -9999;
+}
+
+.icons_img{
+width: 30px;
+}
+
+#certified_img{
+width: 35%;
+}
+
+.cert_img{
+
+width: 70px;
+}
+/*
+table, tr, th, td {
+  border: 1px solid white;
+}
+*/
+
+.main_table{
+width: 80%;
+}
+
+#header_id_certs{
+color: white;
+font-family: "Times New Roman", Times, serif;
+font-size: 25px;
+}
+
+#table_certs{
+width: 60%;
+}
+
+
+#imageAsen{
+width: 200px;
+
+}
+
+.h4_class{
+    font-family: Arial, Times, serif;
+    font-size: 16px;
+}
+
+.jobheader{
+
+}
+
+#certified_img{
+width: 200px;
+}
+
+#table_footer{
+width:900px;
+}
+
+a{
+color:#0000ff ;}
+
+#table_certs a{
+
+color: #87bdd8;
+
+ }
+
+.button {
+  border-radius: 25px;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 14px;
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: blue;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}
+
+a:hover {font-size: 120%;
+  font-size: 120%;
+  background-color: #ddffff;
+
+}
+
+.a_img_certs:hover{
+  background-color: black;
+
+}
+
+.a_certs:hover{
+  background-color: white;
+
+}
+
+
+
+.icons_img:hover{
+transform: scale(1.3);
+}
+
+
+
+ #certified_img:hover, .cert_img:hover,.skills_experience_me_img:hover {
+  transform: scale(1.2); /* (120% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+#skills_article, .experience_article{
+display: none;
+}
+
+#mission_article{
+display:grid;
+}
+
+#main_table{
+opacity: 0;
 }

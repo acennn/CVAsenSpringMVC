@@ -220,7 +220,7 @@
                           <header class="jobheader" >
                             <h4 class="h4_class" ><strong>My mission is to be better today than yesterday, each day!</strong></h4>
                           </header>
-                          <div class="text_align_justify" > I am Java 8 Oracle Certified Programmer. In my current project I am using Spring Boot, Docker Containers, Jenkins, GIT, SQL, Eclipse, Intellij, Gradle, Maven, Scrum methodology and JIRA. The project belongs to our US client, a huge health insurance company.
+                          <div class="text_align_justify" > I am Java 8 Oracle Certified Programmer. In my current project I am using Spring Boot, Docker Containers, Jenkins, GIT, MongoDB, RabbitMQ, Intellij, Gradle, Scrum methodology and JIRA. The project belongs to our US client, a huge health insurance company.
                           <br/> I am working as a junior Java Developer at
                           <a target="_blank" href="https://www.scalefocus.com/" >Scale Focus
                           </a>
@@ -298,7 +298,7 @@
                     </h4>
                     11.2017-Present
                   </header>
-                  <div class="text_align_justify" > As a junior Java Developer I am working with Spring Boot, Docker Containers, Jenkins, GIT, SQL, Eclipse, Intellij, Gradle, Maven, and JIRA. I have every day Scrum meeting with our US client so we are getting the active tasks aligned for the active sprint and backlog stories groomed for the future sprints.
+                  <div class="text_align_justify" >I am working with Spring Boot, Docker Containers, Jenkins, GIT, MongoDB, RabbitMQ, Intellij, Gradle and JIRA. I have every day Scrum meeting with our US client so we are getting the active tasks aligned for the active sprint and backlog stories groomed for the future sprints.
                   <br/>
                   <br/>
                   </div>

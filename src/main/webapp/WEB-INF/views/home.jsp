@@ -340,7 +340,7 @@
                     </h4>
                     01.2015-08.2015
                   </header>
-                  <div class="text_align_center" > I have been true several courses like C#, JavaScript, HTML and CSS.
+                  <div class="text_align_center" > I have been through several courses like C#, JavaScript, HTML and CSS.
                   <br/>
                   <br/>
                   </div>

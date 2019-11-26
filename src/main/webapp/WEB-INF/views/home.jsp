@@ -263,7 +263,7 @@
                           <br/>I have worked with senior management e.g.(CEO, Board members, COO) of the  employers and clients. I always protect the reputation and interest of my employer and get job done.
                           <br/>
                           <span>I love sharing fun experiences with the
-                          <a target="_blank" href="https://www.scalefocus.com/wp-content/uploads/sites/2/2018/06/scalefocus-sql-business-run-weekend-01.jpg" >team
+                          <a target="_blank" href="https://scalefocus.com/wp-content/uploads/2018/06/scalefocus-sql-business-run-weekend-01.jpg" >team
                           </a>
                           .
                           </span>

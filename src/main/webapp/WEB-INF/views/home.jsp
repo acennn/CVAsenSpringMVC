@@ -221,7 +221,7 @@
                             <h4 class="h4_class" ><strong>My mission is to be better today than yesterday, each day!</strong></h4>
                           </header>
                           <div class="text_align_justify" > I am Java 8 Oracle Certified Programmer. In my current project I am using Spring Boot, Docker Containers, Jenkins, GIT, MongoDB, RabbitMQ, Intellij, Gradle, Scrum methodology and JIRA. The project belongs to our US client, a huge health insurance company.
-                          <br/> I am working as a junior Java Developer at
+                          <br/> I am working as a Java Software Engineer II at
                           <a target="_blank" href="https://www.scalefocus.com/" >Scale Focus
                           </a>
                           <br/> I have worked as a Survey Programmer at
@@ -289,7 +289,7 @@
                 <article class="job" >
                   <header class="jobheader" >
                     <h4 class="h4_class" >
-                    <strong>junior Java Developer</strong> at
+                    <strong>Java Software Engineer II</strong> at
                     <strong>
                     <a target="_blank" href="https://www.scalefocus.com/" >Scale Focus
                     </a>

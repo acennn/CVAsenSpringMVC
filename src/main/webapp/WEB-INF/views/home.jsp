@@ -177,7 +177,7 @@
                      </th>
                    </tr>
                  </table>
-                                                <!--  <h3>Projects</h3>
+                                                <!--   <h3>Projects</h3>
                                                   <ul id="id_projects">
                                                     <li>
                                                       <a target="_blank" href="https://github.com/acennn/ElevatorMenu.git">ElevatorMenu

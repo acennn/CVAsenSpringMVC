@@ -141,23 +141,23 @@
                            </tr>
                            <tr>
                              <th>
-                               <a class="a_img_certs" target="_blank" href="<c:url value="https://media.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=u5FuRpywyhFWyIw%2B9ke5nQzqySw%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdfyTtKJaLfLP0uQ8SKX0clFAwffL6RDSyD5u4edy8K9tzi8Kwdo24ZxUBbFImi24"/>" >
+                               <a class="a_img_certs" target="_blank" href="<c:url value="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Ftelerikacademy%2Ecom%2FCertificates%2FView%2F1517%2Fefd128f4&urlhash=OoQa&trk=public_profile_certification-title"/>" >
                                  <img class="cert_img" src="<c:url value="/resources/images/cert_pwc.jpg"/>" alt="Business Acumen Training Series PwC 2015" title="Click to view my Business Acumen Training Series PwC 2015 Certificate." >
                                </a>
                              </th>
                              <th  >
-                               <a class="a_certs" target="_blank" title="Click to view my Business Acumen Training Series PwC 2015 Certificate." href="<c:url value="https://media.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=u5FuRpywyhFWyIw%2B9ke5nQzqySw%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdfyTtKJaLfLP0uQ8SKX0clFAwffL6RDSyD5u4edy8K9tzi8Kwdo24ZxUBbFImi24"/>" >Business Acumen Training Series PwC 2015
+                               <a class="a_certs" target="_blank" title="Click to view my Business Acumen Training Series PwC 2015 Certificate." href="<c:url value="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Ftelerikacademy%2Ecom%2FCertificates%2FView%2F1517%2Fefd128f4&urlhash=OoQa&trk=public_profile_certification-title"/>" >Business Acumen Training Series PwC 2015
                                </a>
                              </th>
                            </tr>
                            <tr>
                              <th>
-                               <a class="a_img_certs" target="_blank" href="<c:url value="https://media.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=H7fiGZWgHHTFXWwar1eK0ZuJ4xE%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdfyLpfZSJfLCguV8ScSgclARjLfKgRWXkD5foLI6-K41zg5Kwco24ZxUBbFImi24"/>" >
+                               <a class="a_img_certs" target="_blank" href="<c:url value="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Ftelerikacademy%2Ecom%2FCertificates%2FView%2F1184%2F4c099c8d&urlhash=FSdX&trk=public_profile_certification-title"/>" >
                                  <img class="cert_img" src="<c:url value="/resources/images/cert_soft_skills.jpg"/>" alt="Soft Skills Course 2015" title="Click to view my Soft Skills Course 2015 Certificate." >
                                </a>
                              </th>
                              <th  >
-                               <a class="a_certs" target="_blank" title="Click to view my Soft Skills Course 2015 Certificate." href="<c:url value="https://media.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=H7fiGZWgHHTFXWwar1eK0ZuJ4xE%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdfyLpfZSJfLCguV8ScSgclARjLfKgRWXkD5foLI6-K41zg5Kwco24ZxUBbFImi24"/>" >Soft Skills Course 2015
+                               <a class="a_certs" target="_blank" title="Click to view my Soft Skills Course 2015 Certificate." href="<c:url value="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Ftelerikacademy%2Ecom%2FCertificates%2FView%2F1184%2F4c099c8d&urlhash=FSdX&trk=public_profile_certification-title"/>" >Soft Skills Course 2015
                                </a>
                              </th>
                            </tr>
@@ -220,13 +220,7 @@
                           <header class="jobheader" >
                             <h4 class="h4_class" ><strong>My mission is to be better today than yesterday, each day!</strong></h4>
                           </header>
-                          <div class="text_align_justify" > I am Java 8 Oracle Certified Programmer. In my current project I am using Spring Boot, Docker Containers, Jenkins, GIT, MongoDB, RabbitMQ, Intellij, Gradle, Scrum methodology and JIRA. The project belongs to our US client, a huge health insurance company.
-                          <br/> I am working as a Java Software Engineer II at
-                          <a target="_blank" href="https://www.scalefocus.com/" >Scale Focus
-                          </a>
-                          <br/> I have worked as a Survey Programmer at
-                          <a target="_blank" href="https://www.focusvision.com" >Focus Vision
-                          </a>.
+                          <div class="text_align_justify" > I am Java 8 Oracle Certified Programmer. In my current project I am using Spring Boot, Docker containers, Bamboo, GIT, Oracle Database, Intellij, Maven, Scrum methodology and JIRA.
                           <br/> I have graduated from the
                           <a target="_blank" href="http://www.tu-sofia.bg/schools/2" >Technological School Electronic Systems
                           </a> associated with Technical University of Sofia, from where I have a diploma for a specialist in electronic computing systems.
@@ -289,6 +283,27 @@
                 <article class="job" >
                   <header class="jobheader" >
                     <h4 class="h4_class" >
+                    <strong>Java Software Engineer</strong> at
+                    <strong>
+                    <a target="_blank" href="https://www.coherentsolutions.bg/" >Coherent Solutions
+                    </a>
+                    </strong>
+                    </strong>
+                    </h4>
+                    04.2020-Present
+                  </header>
+                  <div class="text_align_justify" >I am working with Spring Boot, Docker containers, Bamboo, GIT, Bitbucket, Oracle Database, Intellij, Maven, Scrum methodology and JIRA. I have every day Scrum meeting with our US client so we are getting the active tasks aligned for the active sprint and backlog stories groomed for the future sprints.
+                  <br/>
+                  <br/>
+                  </div>
+                </article>
+              </th>
+            </tr>
+            <tr class="experience_article" >
+              <th  >
+                <article class="job" >
+                  <header class="jobheader" >
+                    <h4 class="h4_class" >
                     <strong>Java Software Engineer II</strong> at
                     <strong>
                     <a target="_blank" href="https://www.scalefocus.com/" >Scale Focus
@@ -296,9 +311,9 @@
                     </strong>
                     </strong>
                     </h4>
-                    11.2017-Present
+                    11.2017-04.2020
                   </header>
-                  <div class="text_align_justify" >I am working with Spring Boot, Docker Containers, Jenkins, GIT, MongoDB, RabbitMQ, Intellij, Gradle and JIRA. I have every day Scrum meeting with our US client so we are getting the active tasks aligned for the active sprint and backlog stories groomed for the future sprints.
+                  <div class="text_align_justify" >I am working with Spring Boot, Docker containers, Jenkins, GIT, MongoDB, RabbitMQ, Intellij, Gradle and JIRA. I have every day Scrum meeting with our US client so we are getting the active tasks aligned for the active sprint and backlog stories groomed for the future sprints.
                   <br/>
                   <br/>
                   </div>
